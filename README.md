@@ -18,41 +18,30 @@ Processing version: 4.0.1
 Main sketch and project folder: SpaceGame
 Required libraries, if any: Sound
 
-[Explain how to open and run the project.]
+To open and run this project all yuo need to do is click on the Hyper link above and it will take you to the code 
 
 ## Controls
-[List each key or mouse action and what it does.]
+The controls needed to run this game include Mouse left Click and you can click any button on the keyboard to start the game.
 
-## Required Foundation — 2 Points
-
-### Three Power-Up Types
-1. [Health] — [Effect, duration if relevant, and status]
-2. [Name] — [Effect, duration if relevant, and status]
-3. [Name] — [Effect, duration if relevant, and status]
+### Two Power-Up Types
+1. Health — Adds 100 health
+2. Turret — Allows for more bullets to fire at once
 
 ### Levels
-[Explain what triggers progression and what changes
-between levels. State the current implementation status.]
+What triggers progression in my game is evry time you hit a rock you get points and the goal is to get as many points as possible.
 
 ## My Chosen Additional Systems
 - Boss
 - Game statistics
 
 My choices:
-1. [System — intended behavior and current status]
-2. [System — intended behavior and current status]
+1. Boss - The goal is to start a boss fight where it is much harder to beat the target.
+2. Game Statistics - The goal is to be able to track your scores and make seeing your stats easier.
 
 ## Testing
-Test actions:
+Test actions: 
 Expected result:
 Actual result:
-
-## Project Files and Assets
-[Identify the main sketch, other tabs,
-and image/audio folders.]
-
-Asset credits:
-[Credit outside assets and identify assets you created.]
 
 ## Next Development Task
 Add some more sounds and animations.
