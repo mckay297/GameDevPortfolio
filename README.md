@@ -39,9 +39,9 @@ My choices:
 2. Game Statistics - The goal is to be able to track your scores and make seeing your stats easier.
 
 ## Testing
-Test actions: 
-Expected result:
-Actual result:
+Test actions: Was tested by 3 diffrent people
+Expected result: I was expecting some good ideas and improvements that i needed to make to my game
+Actual result: I received great ideas and soloutions to make my game better.
 
 ## Next Development Task
 Add some more sounds and animations.
