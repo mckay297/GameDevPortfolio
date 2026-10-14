@@ -16,7 +16,7 @@ The players goal in this game is to shoot the rocks coming at them, the main cha
 Built with Processing.
 Processing version: 4.0.1
 Main sketch and project folder: SpaceGame
-Required libraries, if any: Sound
+Required libraries: Sound
 
 To open and run this project all yuo need to do is click on the Hyper link above and it will take you to the code 
 
